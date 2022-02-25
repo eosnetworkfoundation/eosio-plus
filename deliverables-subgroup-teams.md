@@ -58,6 +58,6 @@ In summary, to complete its mission, the ENF EOSIO+ Working Group will deliver t
 - Jesse
 - Eric
 - Kersten
-- Guillaume
+- [Guillaume](https://github.com/systemzax)
 - Marshall
 - [Daniel](https://github.com/chillsauce)
