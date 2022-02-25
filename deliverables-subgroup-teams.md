@@ -55,7 +55,7 @@ In summary, to complete its mission, the ENF EOSIO+ Working Group will deliver t
 - Rami
 - Douglas
 - [Ted](https://github.com/tedcahalleos)
-- Jesse
+- [Jesse](https://github.com/poplexity)
 - Eric
 - Kersten
 - [Guillaume](https://github.com/systemzax)
