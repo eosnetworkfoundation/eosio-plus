@@ -55,7 +55,7 @@ In summary, to complete its mission, the ENF EOSIO+ Working Group will deliver t
 - Rami
 - Douglas
 - [Ted](https://github.com/tedcahalleos)
-- [Jesse](https://github.com/poplexity)
+- [Jesse](https://github.com/poplexity) ([Telos](https://github.com/telosnetwork))
 - [Eric](https://github.com/ericbutz) ([FIO](https://github.com/fioprotocol))
 - Kersten
 - [Guillaume](https://github.com/systemzax)
