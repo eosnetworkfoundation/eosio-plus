@@ -20,7 +20,7 @@ In summary, to complete its mission, the ENF EOSIO+ Working Group will deliver t
 
 5. A description of the functional governance system for ongoing decision making.
 
-- Team: Kersten, Rami, Ted
+- Team: Kersten, Rami, Ted, Douglas
 
 6. A description of an ongoing, evolving plan for funding the organization and budgeting priorities based on that funding. Definition of &quot;membership&quot; proposal including &quot;levels&quot; and &quot;involvement&quot; (example: Silver = Listen, Gold = talk, Platinum = vote)
 
@@ -53,7 +53,7 @@ In summary, to complete its mission, the ENF EOSIO+ Working Group will deliver t
 - Justin
 - [Aaron](https://github.com/aaroncox)
 - Rami
-- Douglas
+- [Douglas](https://github.com/douglashorn)
 - [Ted](https://github.com/tedcahalleos)
 - [Jesse](https://github.com/poplexity) ([Telos](https://github.com/telosnetwork))
 - [Eric](https://github.com/ericbutz) ([FIO](https://github.com/fioprotocol))
