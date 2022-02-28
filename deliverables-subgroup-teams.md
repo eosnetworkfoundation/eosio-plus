@@ -28,19 +28,19 @@ In summary, to complete its mission, the ENF EOSIO+ Working Group will deliver t
 
 7. A set of standards and organizational processes to integrate code from outside developers
 
--  Team: Ted, Jesse, Aaron, Daniel
+-  Team: Ted, Jesse, Aaron, Daniel, Stan
 
 8. A description of the method to determine how various demands for new code development will be prioritized and implemented.
 
-- Team: Rami, Guillaume, Jesse, Ted
+- Team: Rami, Guillaume, Jesse, Ted, Stan
 
 9. A description of the process for performing ongoing release of new code and code binaries.
 
-- Team: Syed, Aaron, Daniel, Jesse
+- Team: Syed, Aaron, Daniel, Jesse, Stan
 
 10. A description of the process to secure the existing eosio codebase regarding any security concerns that may arise.
 
-- Team: Syed, Aaron, Jesse
+- Team: Syed, Aaron, Jesse, Stan
 
 11. Definition of &quot;membership&quot; proposal including &quot;levels&quot; and &quot;involvement&quot; (example: Silver = Listen, Gold = talk, Platinum = vote) :arrow_right: Combined with Workgroup 6
 
@@ -61,3 +61,4 @@ In summary, to complete its mission, the ENF EOSIO+ Working Group will deliver t
 - [Guillaume](https://github.com/systemzax)
 - Marshall
 - [Daniel](https://github.com/chillsauce)
+- [Stan](https://github.com/cc32d9)
