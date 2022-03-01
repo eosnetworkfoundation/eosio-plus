@@ -11,6 +11,16 @@
 
 ## Process to Prioritize Demands for New Code Development
 - Should we consider the blue paper work as different than post blue paper - or are they the same?
+  - Ted review process he plans for larger group on Thu?
+    - Blue papers broken into SOWs (there are 7 in Audit+)
+    - SOWs prioritized by vote - some SOWs are "killed" (not agreed work needs to be done by group)
+    - Autors of top prioritized SOWs make initial cost/time estimate
+    - If Author estimate accepted they begin developing
+    - If Author estimate rejected, SOW placed out for RFP
+    - Winner of RFP begins development
+- Voting?  Who gets to vote?
+- Voting weighted by contribution of chain?
+- Other voting proposals?
 
 ## Ongoing Release of New Code and Binaries Process
 - Should this also include CI/CD?
