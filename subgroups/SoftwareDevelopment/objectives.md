@@ -32,7 +32,7 @@
     - Winner of RFP begins development
     - Note: some portions may be released prior to need (APIs before Wallets)
     - APIs and SDKs recommended in the core system
-    - [ECMA Scriptstandards](https://tc39.es/process-document/) to ensure coordination of standards between scripts
+    - [ECMA Script standards](https://tc39.es/process-document/) to ensure coordination of standards between scripts
 - Voting?  Who gets to vote?  Who should be on the committees?
 - Voting weighted by contribution of chain?
 - Other voting proposals?
