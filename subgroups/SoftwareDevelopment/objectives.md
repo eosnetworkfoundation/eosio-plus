@@ -5,7 +5,8 @@
 - [ ] Decide if we should also merge in #10 **Security Subgroup**
 
 ## Standards and Organizational Processes to Integrate Code from Outside Developers
-- Should we consider the Apache Software Foundation (ASF) Model of Contributors and Committers?
+- Should we consider the Apache Software Foundation (ASF) Model of [Contributors and Committers](https://community.apache.org/contributors/)?
+  - This requires a committee that peridoically approves or rejects new committer applications
 - Other popular open-source models we should consider?
 - Brainstorm ideas
 
