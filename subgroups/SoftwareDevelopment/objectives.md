@@ -13,5 +13,5 @@
 - Should we consider the blue paper work as different than post blue paper - or are they the same?
 
 ## Ongoing Release of New Code and Binaries Process
-- Should this also include CO/CD?
+- Should this also include CI/CD?
 - Should we consider an integration enviroment hosted by this group?
