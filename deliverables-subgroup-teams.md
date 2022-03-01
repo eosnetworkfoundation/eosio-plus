@@ -32,6 +32,7 @@ In summary, to complete its mission, the ENF EOSIO+ Working Group will deliver t
    - Objective: A set of standards and organizational processes to integrate code from outside developers
    - Objective (8): A description of the method to determine how various demands for new code development will be prioritized and implemented.
    - Objective (9): A description of the process for performing ongoing release of new code and code binaries.
+   - [Working Notes](subgroups/SoftwareDevelopment/objectives.md)
    - Team: Ted, Jesse, Aaron, Daniel, Stan (from 7)
    - Team: Rami, Guillaume, Jesse, Ted, Stan (from 8)
    - Team: Syed, Aaron, Daniel, Jesse, Stan (from 9)
