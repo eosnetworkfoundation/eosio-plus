@@ -5,7 +5,7 @@
 - [ ] Decide if we should also merge in #10 **Security Subgroup**
 
 ## Standards and Organizational Processes to Integrate Code from Outside Developers
-- Should we consider the Apache Foundation Model of Contributors and Committers?
+- Should we consider the Apache Software Foundation (ASF) Model of Contributors and Committers?
 - Other popular open-source models we should consider?
 - Brainstorm ideas
 
@@ -14,7 +14,7 @@
   - Ted review process he plans for larger group on Thu?
     - Blue papers broken into SOWs (there are 7 in Audit+)
     - SOWs prioritized by vote - some SOWs are "killed" (not agreed work needs to be done by group)
-    - Autors of top prioritized SOWs make initial cost/time estimate
+    - Authors of top prioritized SOWs make initial cost/time estimate
     - If Author estimate accepted they begin developing
     - If Author estimate rejected, SOW placed out for RFP
     - Winner of RFP begins development
