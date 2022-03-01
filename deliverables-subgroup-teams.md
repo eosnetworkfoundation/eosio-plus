@@ -2,49 +2,55 @@
 
 In summary, to complete its mission, the ENF EOSIO+ Working Group will deliver the following:
 
-1. A determination of the most appropriate entity form and jurisdiction and create this legal entity.
+1. **Entity Subgroup**
+   - Objective: A determination of the most appropriate entity form and jurisdiction and create this legal entity.
+   - Team: focus on ENF: Yves, Zack, possibly Telos Foundation, Justin
 
-- Team: focus on ENF: Yves, Zack, possibly Telos Foundation, Justin
+2. **Branding Subgroup**
+   - High quality branding elements for this entity.
+   - Team: Justin, Aaron, Rami, Yves, Douglas
 
-2. High quality branding elements for this entity.
+3. **Staffing / Leadership Subgroup**
+   - Objective (3): Identification and hiring of initial leadership staff in four, exemplary key positions: Executive Director, Head of Funder Relations, Head of Core Software Development, and Head of Communications. Proposal of initial funding and budget for mentioned roles.
+   - Objective(4): A description of the manner of developer staffing and initial hiring.
+   - Team: Ted, Yves, Douglas (from 3)
+   - Team: Ted, Yves, Jesse, Eric (from 4)
 
-- Team: Justin, Aaron, Rami, Yves, Douglas
+4. Merged into 3.
+   - Objective: A description of the manner of developer staffing and initial hiring.
+   - Team: Ted, Yves, Jesse, Eric
 
-3. Identification and hiring of initial leadership staff in four, exemplary key positions: Executive Director, Head of Funder Relations, Head of Core Software Development, and Head of Communications. Proposal of initial funding and budget for mentioned roles.
+5. **Governance Subgroup**
+   - Objective: A description of the functional governance system for ongoing decision making.
+   - Team: Kersten, Rami, Ted, Douglas
 
-- Team: Ted, Yves, Douglas
+6. **Funding Subgroup**
+   - Objective: A description of an ongoing, evolving plan for funding the organization and budgeting priorities based on that funding. Definition of &quot;membership&quot; proposal including &quot;levels&quot; and &quot;involvement&quot; (example: Silver = Listen, Gold = talk, Platinum = vote)
+   - Team: Yves, Guillaume, Marshall
 
-4. A description of the manner of developer staffing and initial hiring.
+7. **Software Development Subgroup**
+   - Objective: A set of standards and organizational processes to integrate code from outside developers
+   - Objective (8): A description of the method to determine how various demands for new code development will be prioritized and implemented.
+   - Objective (9): A description of the process for performing ongoing release of new code and code binaries.
+   - Team: Ted, Jesse, Aaron, Daniel, Stan (from 7)
+   - Team: Rami, Guillaume, Jesse, Ted, Stan (from 8)
+   - Team: Syed, Aaron, Daniel, Jesse, Stan (from 9)
 
-- Team: Ted, Yves, Jesse, Eric
+8. Merged into 7 - Software Development Subgroup
+   - A description of the method to determine how various demands for new code development will be prioritized and implemented.
+   - Team: Rami, Guillaume, Jesse, Ted, Stan
 
-5. A description of the functional governance system for ongoing decision making.
+9. Merged into 7 - Software Development Subgroup
+   - Objective: A description of the process for performing ongoing release of new code and code binaries.
+   - Team: Syed, Aaron, Daniel, Jesse, Stan
 
-- Team: Kersten, Rami, Ted, Douglas
+10. **Security Subgroup**
+    - Objective: A description of the process to secure the existing eosio codebase regarding any security concerns that may arise.
+    - Team: Syed, Aaron, Jesse, Stan
 
-6. A description of an ongoing, evolving plan for funding the organization and budgeting priorities based on that funding. Definition of &quot;membership&quot; proposal including &quot;levels&quot; and &quot;involvement&quot; (example: Silver = Listen, Gold = talk, Platinum = vote)
-
-- Team: Yves, Guillaume, Marshall
-
-7. A set of standards and organizational processes to integrate code from outside developers
-
--  Team: Ted, Jesse, Aaron, Daniel, Stan
-
-8. A description of the method to determine how various demands for new code development will be prioritized and implemented.
-
-- Team: Rami, Guillaume, Jesse, Ted, Stan
-
-9. A description of the process for performing ongoing release of new code and code binaries.
-
-- Team: Syed, Aaron, Daniel, Jesse, Stan
-
-10. A description of the process to secure the existing eosio codebase regarding any security concerns that may arise.
-
-- Team: Syed, Aaron, Jesse, Stan
-
-11. Definition of &quot;membership&quot; proposal including &quot;levels&quot; and &quot;involvement&quot; (example: Silver = Listen, Gold = talk, Platinum = vote) :arrow_right: Combined with Workgroup 6
-
-- Team: see 6
+11. Merged into 6 - Funding Subgroup
+    - Objective:  Definition of &quot;membership&quot; proposal including &quot;levels&quot; and &quot;involvement&quot; (example: Silver = Listen, Gold = talk, Platinum = vote) :arrow_right: Combined with Workgroup 6
+    - Team: see 6
 
 # Quick Reference GitHub Links (sorted mostly by appearance above)
 
