@@ -4,7 +4,7 @@ Proposal to the EOSIO+ Working Group - 2022-02-24
 
 ## Introduction
 
-It is important for the EOSIO+ Working Group to demonstrate a process and narrative for how it will drive the future &quot;EOSIO&quot; (name to be changed) technology roadmap. This document is a first draft proposal of such a process for the group to discuss, modify and eventually ratify. This will allow the group to forward the narrative, via a blog post, of the progress it has been making over the past several months.
+It is important for the EOSIO+ Working Group to demonstrate a process and narrative for how it will drive the future &quot;EOSIO+&quot; (name to be changed) technology roadmap. This document is a first draft proposal of such a process for the group to discuss, modify and eventually ratify. This will allow the group to forward the narrative, via a blog post, of the progress it has been making over the past several months.
 
 ## High-Level Process Steps
 
@@ -47,7 +47,7 @@ The following roadmap attempts to depict this process. Note that some dates will
 
 ![](img/EOSIO+_Final-01.jpg)
 
-Alternate version - easier to read in Word doc for now.
+Alternate version - easier to read in Markdown for now.  Below version has had updates since abover version was created.
 
 ![](img/EOSIO-Roadmap-2022-03-02.png)
 
@@ -57,3 +57,4 @@ Alternate version - easier to read in Word doc for now.
 As per the conversation in the EOSIO+ Working Group, if we do not publish and control the narrative, others will. Once we modify this proposal to the group&#39;s liking, we can publish a blog post explaining how we are creating the Roadmap _by the community and for the community_. We will gain back the narrative and make it clear - we are seeking feedback on each section of the Blue Papers. We are not dictating the future - but facilitating it for the Public Good of the community by the community. That should sell somewhat better than some of the alternatives.
 
 ## Publish and Control the Narrative
+Once a process for greating our roadmap has been approved, the ENF will create a publish a blog post that starts to control the narrative of how we are publishing the EOSIO+ software.
