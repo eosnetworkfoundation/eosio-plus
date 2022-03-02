@@ -34,7 +34,7 @@ In summary, to complete its mission, the ENF EOSIO+ Working Group will deliver t
      - A description of the method to determine how various demands for new code development will be prioritized and implemented.
      - A description of the process for performing ongoing release of new code and code binaries.
    - [Working Notes](subgroups/SoftwareDevelopment/objectives.md)
-   - Team: Rami, Guillaume, Jesse, Aaron, Daniel, Syed, Ted, Stan, Matthew (see GitHub links below)
+   - Team: Rami, Guillaume, Jesse, Aaron, Daniel, Syed, Ted, Stan, Matthew [(see GitHub links below)](https://github.com/eosnetworkfoundation/eosio-plus/blob/main/deliverables-subgroup-teams.md#quick-reference-github-links-sorted-mostly-by-appearance-above)
 
 8. Merged into 7 - Software Development Subgroup
    - A description of the method to determine how various demands for new code development will be prioritized and implemented.
