@@ -49,7 +49,7 @@ The following roadmap attempts to depict this process. Note that some dates will
 
 Alternate version - easier to read in Word doc for now.
 
-![](EOSIO-Roadmap-2022-03-02.png)
+![](img/EOSIO-Roadmap-2022-03-02.png)
 
 
 ## Modify and Approve This Process
