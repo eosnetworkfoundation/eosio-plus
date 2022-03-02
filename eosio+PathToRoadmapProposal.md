@@ -16,32 +16,32 @@ At its highest level the major steps are as follows:
 
 1. Each Blue Paper is completed by its authors
 2. Each Blue Paper is put up for _potentially compensated_ review which includes:
-   -a. Proposing an **Alternative** to any solution or section in the whitepaper
-   -b. Proposing an **Enhancement** to and solution or section
+   - a. Proposing an **Alternative** to any solution or section in the whitepaper
+   - b. Proposing an **Enhancement** to and solution or section
    - c. Proposing an **Additional** solution or section that may have been missed
    - d. Each of these submissions of feedback will be compensated (outlined in blog)
 3. The authors of the Blue Papers will accept or reject each area of feedback
-   a. Acceptance will increase the compensation to the reviewers
+   - a. Acceptance will increase the compensation to the reviewers
 4. The ENF will integrate and publish the feedback as the &quot;Final&quot; versions
 5. Each Blue Paper&#39;s solutions will be broken into separate SOWs
-   a. There are currently 7 proposed solutions in the Audit+ Blue Paper for example
-   b. The API+ Blue Paper has 8 proposed solutions.
-   c. The Core+ Blue Paper has approximately **XX** proposals in it.
-   d. Each of these proposals will become a prioritized, approved or rejected SOW
+   - a. There are currently 7 proposed solutions in the Audit+ Blue Paper for example
+   - b. The API+ Blue Paper has 8 proposed solutions.
+   - c. The Core+ Blue Paper has approximately **XX** proposals in it.
+   - d. Each of these proposals will become a prioritized, approved or rejected SOW
 6. The EOSIO+ Working Group will vote on priority of each of the Blue Paper SOWs
-   a. Each chain would submit their priority in order
-   b. Some items can be marked &quot;not prioritized&quot; if they are not critical to that group
+   - a. Each chain would submit their priority in order
+   - b. Some items can be marked &quot;not prioritized&quot; if they are not critical to that group
 7. EOSIO+ Working Group would then vote on overall priority integration
-   a. Merging of the four prioritized lists from the individual blue papers
+   - a. Merging of the four prioritized lists from the individual blue papers
 8. The top &quot;N&quot; SOWs would then have their costs and timelines estimated
-   a. The original authors of the Blue Paper will be given first priority
-   b. If the original author bid was deemed too expensive or excessive timeline
-      i. The SOW will be put out in an RFP for any developers to bid
+   - a. The original authors of the Blue Paper will be given first priority
+   - b. If the original author bid was deemed too expensive or excessive timeline
+        - i. The SOW will be put out in an RFP for any developers to bid
 9. The approved SOWs bids then would be organized into &quot;EOSIO&quot; Releases
-   a. Whatever EOSIO replacement name is chosen
-   b. Called Mandel 3.2, 3.3, etc for now
+   - a. Whatever EOSIO replacement name is chosen
+   - b. Called Mandel 3.2, 3.3, etc for now
 10. Future releases can always be modified as operating needs are identified
-   a. In other words, the roadmap is a living document, and not set in stone
+   - a. In other words, the roadmap is a living document, and not set in stone
 
 ## Example Roadmap
 
