@@ -19,7 +19,7 @@ At its highest level the major steps are as follows:
    - a. Proposing an **Alternative** to any solution or section in the whitepaper
    - b. Proposing an **Enhancement** to any solution or section
    - c. Proposing an **Additional** solution or section that may have been missed
-   - d. Each of these submissions of feedback will be compensated [(outlined in blog)](https://medium.com/eos-network-foundation/blue-paper-community-feedback-initiative-18dd923503ef)
+   - d. Each of these submissions of feedback will be compensated [(outlined in ENF blogpost)](https://medium.com/eos-network-foundation/blue-paper-community-feedback-initiative-18dd923503ef)
 3. The authors of the Blue Papers will accept or reject each area of feedback
    - a. Acceptance will increase the compensation to the reviewers
 4. The **ENF** will integrate and publish the feedback as the &quot;Final&quot; versions
