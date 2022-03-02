@@ -3,6 +3,7 @@
 - [ ] A description of the method to determine how various demands for new code development will be prioritized and implemented.
 - [ ] A description of the process for performing ongoing release of new code and code binaries.
 - [ ] Decide if we should also merge in #10 **Security Subgroup** Aaron (yes), Jesse (yes)
+- [ ] Should we keep this time for recurring weekly meeting?
 
 ## Standards and Organizational Processes to Integrate Code from Outside Developers
 - Should we consider the Apache Software Foundation (ASF) Model of [Contributors and Committers](https://community.apache.org/contributors/)?
