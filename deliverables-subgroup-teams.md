@@ -36,6 +36,7 @@ In summary, to complete its mission, the ENF EOSIO+ Working Group will deliver t
    - Team: Ted, Jesse, Aaron, Daniel, Stan (from 7)
    - Team: Rami, Guillaume, Jesse, Ted, Stan (from 8)
    - Team: Syed, Aaron, Daniel, Jesse, Stan (from 9)
+   - Team: New: Matthew Darwin
 
 8. Merged into 7 - Software Development Subgroup
    - A description of the method to determine how various demands for new code development will be prioritized and implemented.
@@ -69,3 +70,4 @@ In summary, to complete its mission, the ENF EOSIO+ Working Group will deliver t
 - Marshall
 - [Daniel](https://github.com/chillsauce)
 - [Stan](https://github.com/cc32d9)
+- [Matthew Darwin](https://github.com/matthewdarwin)
