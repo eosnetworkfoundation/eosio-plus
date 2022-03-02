@@ -14,4 +14,5 @@ Working Group Members:
 - [Guillaume](https://github.com/systemzax)
 - [Daniel](https://github.com/chillsauce)
 - [Stan](https://github.com/cc32d9)
+- [Matthew Darwin](https://github.com/matthewdarwin)
 - [Ted](https://github.com/tedcahalleos)
