@@ -59,4 +59,4 @@ Alternate version - easier to read in Markdown for now.  Below version has had u
 As per the conversation in the EOSIO+ Working Group, if we do not publish and control the narrative, others will. Once we modify this proposal to the group&#39;s liking, we can publish a blog post explaining how we are creating the Roadmap _by the community and for the community_. We will gain back the narrative and make it clear - we are seeking feedback on each section of the Blue Papers. We are not dictating the future - but facilitating it for the Public Good of the community by the community. That should sell somewhat better than some of the alternatives.
 
 ## Publish and Control the Narrative
-Once a process for greating our roadmap has been approved, the ENF will create a publish a blog post that starts to control the narrative of how we are publishing the EOSIO+ software.
+Once a process for greating the roadmap has been approved, the ENF will create and publish a blog post that starts to control the narrative of how the EOS community is driving the roadmap the EOSIO+ software.
