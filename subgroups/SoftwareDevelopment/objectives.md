@@ -2,16 +2,16 @@
 - [ ] A set of standards and organizational processes to integrate code from outside developers.
 - [ ] A description of the method to determine how various demands for new code development will be prioritized and implemented.
 - [ ] A description of the process for performing ongoing release of new code and code binaries.
-- [ ] Decide if we should also merge in #10 **Security Subgroup** Aaron (yes), Jesse (yes)
-- [ ] Should we keep this time for recurring weekly meeting?
+- [x] Should we keep this time for recurring weekly meeting? Yes
 
 ## Standards and Organizational Processes to Integrate Code from Outside Developers
 - Should we consider the Apache Software Foundation (ASF) Model of [Contributors and Committers](https://community.apache.org/contributors/)?
   - This requires a committee of "commiters" (gatekeepers) that peridoically approves or rejects new contributor submissions
-- Other popular open-source models we should consider?
 - This team to write the clear Policy and Process for all developers submitting code
   - Does the code do what the commit says?
   - Does the commit do what was on the roadmap?
+  - Is it a bug fix to a known issue?
+  - The commiter approval process.  One approval enough - one rejection enough to stop the process and require discussion.
 - Capture use case where we assigned work to a 3rd party that we have little to no experience with
 - How to ensure the priorities of the gatekeepers/commiters are in alignment
   - Must be on the roadmap
@@ -19,11 +19,11 @@
   - Is there a consensus mechanism above them if they (commiters) are blocking items?
 - How to handle a 3rd party feature that was not on the roadmap but seems beneficial?
   - Have a committee (not necessarily the commiters) that took these as input, and then ammended the roadmap.
-  - Need a clear published policy on GitHub as to how to submit new code, features or proposals
+  - Need a clear published policy on GitHub as to how to submit new code, features or proposals (Pomelo / Grant Framework)
   - Make the decisions and committe of the above type decisions public and transparent
 
 ## Process to Prioritize Demands for New Code Development
-- Should we consider the blue paper work as different than post blue paper - or are they the same?
+- Consider the blue paper work as different than post blue paper.
   - Ted [review process](../../eosio+PathToRoadmapProposal.md) he plans for larger group on Thu?
     - Blue papers broken into SOWs (there are 7 in Audit+, 8 in API+)
     - SOWs prioritized by vote - some SOWs are "killed" (not agreed work needs to be done by group)
@@ -37,6 +37,7 @@
 - Process used Post Blue Papers to prioritize work
   - Inbound requests (Pomelo)
   - Inbound requests (Grant Framework)
+  - Outbound commission (Blue Papers)
 - Voting?  Who gets to vote?  Who should be on the committees?
 - Voting weighted by contribution of chain?
 - Other voting proposals?
