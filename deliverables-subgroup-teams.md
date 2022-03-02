@@ -60,7 +60,7 @@ In summary, to complete its mission, the ENF EOSIO+ Working Group will deliver t
 - Zack
 - Justin
 - [Aaron](https://github.com/aaroncox)
-- Rami
+- [Rami](https://github.com/ramijames)
 - [Douglas](https://github.com/douglashorn)
 - [Ted](https://github.com/tedcahalleos)
 - [Jesse](https://github.com/poplexity) ([Telos](https://github.com/telosnetwork))
