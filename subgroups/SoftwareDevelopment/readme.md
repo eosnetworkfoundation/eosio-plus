@@ -7,7 +7,7 @@ Working on the following [objectives](objectives.md):
 
 Working Group Members:
 - [Aaron](https://github.com/aaroncox)
-- Rami
+- [Rami] (https://github.com/ramijames)
 - [Douglas](https://github.com/douglashorn)
 - [Jesse](https://github.com/poplexity) ([Telos](https://github.com/telosnetwork))
 - [Kersten](https://github.com/Kersten-TCD)
