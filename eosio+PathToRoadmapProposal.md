@@ -10,7 +10,7 @@ It is important for the EOSIO+ Working Group to demonstrate a process and narrat
 
 ## High-Level Process Steps
 
-Currently four Blue Papers are underway by separate Working Groups. The main focus of this proposal is to outline how the Blue Paper based groups (Core+, Api+, Wallet+, and Audit+) will be delivered, reviewed, consolidated, ranked, funded, and then integrated into a roadmap spanning multiple releases over several quarters.
+Currently four Blue Papers are underway by separate Working Groups. The main focus of this proposal is to outline how the Blue Paper based groups (Core+, API+, Wallet+, and Audit+) will be delivered, reviewed, consolidated, ranked, funded, and then integrated into a roadmap spanning multiple releases over several quarters.
 
 At its highest level the major steps are as follows:
 
