@@ -38,9 +38,13 @@
   - Inbound requests (Pomelo)
   - Inbound requests (Grant Framework)
   - Outbound commission (Blue Papers)
-- Voting?  Who gets to vote?  Who should be on the committees?
-- Voting weighted by contribution of chain?
-- Other voting proposals?
+- Ranking?  Who gets to vote/rank?  Who should be on the committees?
+  - One vote per Chain
+  - One vote per Block Producer team (all chains)
+  - Scope of this goup only for "core software" that affect multiple chains
+  - Goal is to prioritize and see where there is consensus - and what is controversial and to delay
+- Ranking weighted by contribution of chain?
+- Other ranking proposals?
   - Next two to three waves of features it will likely be common sense and little disention
   - Once we get beyond that, we will likely be happy we had determined a voting structure that we practiced
 
@@ -51,9 +55,19 @@
   - Need to fund and drive this - need addition to one of the papers
   - Both a speed pipeline and a functionality pipeline
   - Can have multiple classes of CI/CD: Blue (power-up), Green (no power-up), etc
+    - Telos, Fio, Ultra, etc.
   - Run the client binaries against live networks - vs fake networks
 - Should we consider an integration enviroment hosted by this group?
   - Check with core developers.  Is this the same thing as an CI/CD?
+  - Depends on scope of work. Minor work on edges would not need this.  Large refactoring would need it.
 - Testnets
   - One testnet for EOSIO+ does that take care of other nets?
+  - Would need dedicated test net for consensus changes.  Or changin the peer-to-peer protocol.
   - Could CI/CD solve this?
+-  Should we host Docker images and .deb file?
+   - How do we validate the artifacts are legitimate?  Hash or signature of binary.
+   - How often do we generate?
+   - How well do we document?
+- More frequent now due to full pipeline of features and bug fixes
+  - Two feature releases per year is the current target
+
