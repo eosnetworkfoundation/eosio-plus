@@ -24,7 +24,7 @@
 
 ## Process to Prioritize Demands for New Code Development
 - Should we consider the blue paper work as different than post blue paper - or are they the same?
-  - Ted [review process](eosio+PathToRoadmapProposal.md) he plans for larger group on Thu?
+  - Ted [review process](../../eosio+PathToRoadmapProposal.md) he plans for larger group on Thu?
     - Blue papers broken into SOWs (there are 7 in Audit+, 8 in API+)
     - SOWs prioritized by vote - some SOWs are "killed" (not agreed work needs to be done by group)
     - Authors of top prioritized SOWs make initial cost/time estimate
