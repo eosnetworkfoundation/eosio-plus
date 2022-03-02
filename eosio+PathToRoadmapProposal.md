@@ -1,6 +1,7 @@
 # EOSIO+ Path to Roadmap Proposal
 
 Proposal to the EOSIO+ Working Group - 2022-02-24
+Please send comments to ted@eosn.foundation or add them directly to this document.
 
 ## Introduction
 
