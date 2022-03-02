@@ -34,6 +34,9 @@
     - Note: some portions may be released prior to need (APIs before Wallets)
     - APIs and SDKs recommended in the core system
     - [ECMA Script standards](https://tc39.es/process-document/) to ensure coordination of standards between scripts
+- Process used Post Blue Papers to prioritize work
+  - Inbound requests (Pomelo)
+  - Inbound requests (Grant Framework)
 - Voting?  Who gets to vote?  Who should be on the committees?
 - Voting weighted by contribution of chain?
 - Other voting proposals?
