@@ -7,7 +7,7 @@
 
 ## Standards and Organizational Processes to Integrate Code from Outside Developers
 - Should we consider the Apache Software Foundation (ASF) Model of [Contributors and Committers](https://community.apache.org/contributors/)?
-  - This requires a committee that peridoically approves or rejects new committer applications
+  - This requires a committee of "commiters" (gatekeepers) that peridoically approves or rejects new contributor submissions
 - Other popular open-source models we should consider?
 - This team to write the clear Policy and Process for all developers submitting code
   - Does the code do what the commit says?
@@ -16,9 +16,9 @@
 - How to ensure the priorities of the gatekeepers/commiters are in alignment
   - Must be on the roadmap
   - Must be agreed to by general consensus
-  - Is there a consensus mechanism above them if they are blocking items?
+  - Is there a consensus mechanism above them if they (commiters) are blocking items?
 - How to handle a 3rd party feature that was not on the roadmap but seems beneficial?
-  - Have a committee that took these as input, and then ammended the roadmap.
+  - Have a committee (not necessarily the commiters) that took these as input, and then ammended the roadmap.
   - Need a clear published policy on GitHub as to how to submit new code, features or proposals
   - Make the decisions and committe of the above type decisions public and transparent
 
