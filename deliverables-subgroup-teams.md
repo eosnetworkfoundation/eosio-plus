@@ -58,6 +58,7 @@ In summary, to complete its mission, the ENF EOSIO+ Working Group will deliver t
 - [Yves](https://github.com/yveslarose)
 - Zack
 - Justin
+- Daryn
 - [Aaron](https://github.com/aaroncox)
 - [Rami](https://github.com/ramijames)
 - [Douglas](https://github.com/douglashorn)
