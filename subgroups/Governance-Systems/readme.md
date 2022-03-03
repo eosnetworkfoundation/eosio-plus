@@ -4,7 +4,7 @@ Working on the following objective:
 - A description of the functional governance system for ongoing decision making.
   - Who are the members that can vote?
     - One vote per "engaged" BP?  Engaged means they attend meetings.  This is instead of "All BPs" which would make voting / ranking next to impossible.
-    - Obe vote per "engaged" Chain?  Again as above - attending meetings and helping drive the process.
+    - One vote per "engaged" Chain?  Again as above - attending meetings and helping drive the process.
     - Weighting by Chain? (Likely unecessary for early work as we have a huge backlog and consensus should likely guide us.)
   - How are new members added or removed?
   - How is voting or ranking accomplished [(see Software Development Group 2nd item)](../SoftwareDevelopment/objectives.md)
