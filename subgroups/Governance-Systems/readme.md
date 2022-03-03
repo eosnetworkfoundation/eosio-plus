@@ -10,7 +10,8 @@ Objective: A description of the functional governance system for ongoing decisio
     - A voting class for strong contributors (ie. that build tools) - but generally not just a BP.
       - **Proposal:** These members are voted in by the voting chains with a supermajority
     - A BP that sits on multiple chains must only represent one chain at a time (meaning they participate as part of that chain's vote)
-    - Weighting by Chain? Not solely by Funding - but some non-majority increase due to EOS funding 70%-80%? 10 total votes and EOS gets 4 of them?
+    - Weighting by Chain? Not solely by Funding - but some non-majority increase due to EOS funding 70%-80%? 
+      - Example: 10 total votes and EOS gets 4 of them?
     - Paying vs Non-Paying Members - shoud non-paying members get a vote?  
       - **Proposal:** No.  They can debate and add to the discussion, but not vote.
     - Voters and Observers - obervers can participate in discussions - but not in the votes (same as above?)
