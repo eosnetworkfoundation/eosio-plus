@@ -5,7 +5,7 @@ Objective: A description of the functional governance system for ongoing decisio
   - **Proposal:** Establishment of a top level Governance Council
   - Who are the members that can vote / rank?
     - N votes per "engaged" Chain?  Chains: WAX, Ultra, Telos, UX, Proton, FIO, EOS
-      - **Proposal:** One per chain for now to keep it simple in the interim process.
+      - **Proposal:** One per chain **for now** to keep it simple in the **interim process**.
     - **Proposal:** Only "paying" chains may vote.  Non-paying chains may participate in discussions and debates.
     - A voting class for strong contributors (ie. that build tools) - but generally not just a BP.
       - **Proposal:** These members are voted in by the voting chains with a supermajority
