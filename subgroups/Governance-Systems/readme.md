@@ -21,6 +21,7 @@ Objective: A description of the functional governance system for ongoing decisio
     - **Proposal:** They would need to be a chain and agree to be a paying member (or could be a non-voting, non-paying, observer)
     - **Proposal:** Or they are a "strong contributing" community member that the chains vote in with a supermajority
   - How is voting or ranking accomplished [(see Software Development Group 2nd item)](../SoftwareDevelopment/objectives.md)
+    - We mostly stopped here last meeting.
   - **Proposal:** Cross-chain Governance token be proposed to the Governance Council once formed and them potentially funded.  Should not be approved here.
     - Currnet need for expediency requires manual processes or the Blue Papers are effectuively dead
     - Governance token, token conversion, and DAO software to be proposed as a funded software effort and voted upon by the Council
