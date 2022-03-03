@@ -2,7 +2,7 @@
 
 In summary, to complete its mission, the ENF EOSIO+ Working Group will deliver the following:
 
-1. **Entity Subgroup**
+1. **Legal Entity Subgroup**
    - Objective: A determination of the most appropriate entity form and jurisdiction and create this legal entity.
    - Team: focus on ENF: Yves, Zack, Douglas, Justin
 
