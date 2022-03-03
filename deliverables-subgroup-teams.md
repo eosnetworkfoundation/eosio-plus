@@ -4,7 +4,7 @@ In summary, to complete its mission, the ENF EOSIO+ Working Group will deliver t
 
 1. **Entity Subgroup**
    - Objective: A determination of the most appropriate entity form and jurisdiction and create this legal entity.
-   - Team: focus on ENF: Yves, Zack, possibly Telos Foundation, Justin
+   - Team: focus on ENF: Yves, Zack, Douglas, Justin
 
 2. **Branding Subgroup**
    - High quality branding elements for this entity.
