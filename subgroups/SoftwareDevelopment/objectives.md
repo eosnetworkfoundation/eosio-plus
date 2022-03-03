@@ -4,6 +4,8 @@
 - [ ] A description of the process for performing ongoing release of new code and code binaries.
 - [x] Should we keep this time for recurring weekly meeting? Yes
 
+[Team members](readme.md)
+
 ## Standards and Organizational Processes to Integrate Code from Outside Developers
 - Should we consider the Apache Software Foundation (ASF) Model of [Contributors and Committers](https://community.apache.org/contributors/)?
   - This requires a committee of "commiters" (gatekeepers) that peridoically approves or rejects new contributor submissions
