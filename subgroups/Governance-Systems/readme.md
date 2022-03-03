@@ -15,7 +15,7 @@ Objective: A description of the functional governance system for ongoing decisio
       - **Proposal:** 1 vote per chain and "stong contributor" for interim as we are just trying to crank through the Blue Papers now.
     - Paying vs Non-Paying Members - shoud non-paying members get a vote?  
       - **Proposal:** No.  They can debate and add to the discussion, but not vote.
-    - Voters and Observers - obervers can participate in discussions - but not in the votes (same as above?)
+    - Voters and Observers - obervers can participate in discussions - but not in the votes (same as above? Paying=Voting, Non-Paying=Observer)
     - Set up an interim process until the new organization is formally formed - critically needed by the Blue Papers now
     - **Rejected:** One vote per "engaged" BP?  No - BPs are not acceptable (Rami / Douglas) except for "Strong Contributors" described above.
   - How are new members added or removed?
