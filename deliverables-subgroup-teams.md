@@ -26,13 +26,14 @@ In summary, to complete its mission, the ENF EOSIO+ Working Group will deliver t
 
 6. **Funding Subgroup**
    - Objective: A description of an ongoing, evolving plan for funding the organization and budgeting priorities based on that funding. Definition of &quot;membership&quot; proposal including &quot;levels&quot; and &quot;involvement&quot; (example: Silver = Listen, Gold = talk, Platinum = vote)
-   - Team: Yves, Guillaume, Marshall
+   - Team: Yves, Guillaume, Daryn
 
 7. **Software Development Subgroup**
    - Objectives: 
      - A set of standards and organizational processes to integrate code from outside developers
      - A description of the method to determine how various demands for new code development will be prioritized and implemented.
      - A description of the process for performing ongoing release of new code and code binaries.
+     - Definition of "Core Code"
    - [Working Notes](subgroups/SoftwareDevelopment/objectives.md)
    - Team: Rami, Guillaume, Jesse, Aaron, Daniel, Syed, Ted, Stan, Matthew [(see GitHub links below)](https://github.com/eosnetworkfoundation/eosio-plus/blob/main/deliverables-subgroup-teams.md#quick-reference-github-links-sorted-mostly-by-appearance-above)
 
