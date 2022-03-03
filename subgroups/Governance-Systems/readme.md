@@ -2,7 +2,7 @@
 
 Objective: A description of the functional governance system for ongoing decision making.
 
-  - **Proposal:** Establishment of a top level Governance Council
+  - **Proposal:** Establishment of an top level **interim** Governance Council for now.
   - Who are the members that can vote / rank?
     - N votes per "engaged" Chain?  Chains: WAX, Ultra, Telos, UX, Proton, FIO, EOS
       - **Proposal:** One per chain **for now** to keep it simple in the **interim process**.
