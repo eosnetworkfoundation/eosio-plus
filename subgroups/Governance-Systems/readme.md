@@ -11,7 +11,8 @@ Objective: A description of the functional governance system for ongoing decisio
       - **Proposal:** These members are voted in by the voting chains with a supermajority
     - A BP that sits on multiple chains must only represent one chain at a time (meaning they participate as part of that chain's vote)
     - Weighting by Chain? Not solely by Funding - but some non-majority increase due to EOS funding 70%-80%? 
-      - Proposal: 10 total votes and EOS gets 4 of them?
+      - **Proposal:** 10 total votes and EOS gets 4 of them? (This could be for future Governance Council)
+      - **Proposal:** 1 vote per chain and "stong contributor" for interim as we are just trying to crank through the Blue Papers now.
     - Paying vs Non-Paying Members - shoud non-paying members get a vote?  
       - **Proposal:** No.  They can debate and add to the discussion, but not vote.
     - Voters and Observers - obervers can participate in discussions - but not in the votes (same as above?)
