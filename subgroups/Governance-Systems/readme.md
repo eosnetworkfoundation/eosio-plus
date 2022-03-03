@@ -1,18 +1,18 @@
 # Home of the EOSIO+ Governance Systems subgroup
 
-Working on the following objective:
-- A description of the functional governance system for ongoing decision making.
-  - Proposal: Establishment of a top level Governance Council
+Objective: A description of the functional governance system for ongoing decision making.
+
+  - **Proposal:** Establishment of a top level Governance Council
   - Who are the members that can vote / rank?
     - N votes per "engaged" Chain?  Chains: WAX, Ultra, Telos, UX, Proton, FIO, EOS
-      - Proposal: One per chain for now to keep it simple in the interim process.
-    - Proposal: Only "paying" chains may vote.  Non-paying chains may participate in discussions and debates.
+      - **Proposal:** One per chain for now to keep it simple in the interim process.
+    - **Proposal:** Only "paying" chains may vote.  Non-paying chains may participate in discussions and debates.
     - A voting class for strong contributors (ie. that build tools) - but generally not just a BP.
-      - Proposal: These members are voted in by the voting chains with a supermajority
+      - **Proposal:** These members are voted in by the voting chains with a supermajority
     - A BP that sits on multiple chains must only represent one chain at a time (meaning they participate as part of that chain's vote)
     - Weighting by Chain? Not solely by Funding - but some non-majority increase due to EOS funding 70%-80%? 10 total votes and EOS gets 4 of them?
     - Paying vs Non-Paying Members - shoud non-paying members get a vote?  
-      - Proposal: No.  They can debate and add to the discussion, but not vote.
+      - **Proposal:** No.  They can debate and add to the discussion, but not vote.
     - Voters and Observers - obervers can participate in discussions - but not in the votes (same as above?)
     - Set up an interim process until the new organization is formally formed - critically needed by the Blue Papers now
     - **Rejected:** One vote per "engaged" BP?  No - BPs are not acceptable (Rami / Douglas) except for "Strong Contributors" described above.
@@ -20,10 +20,10 @@ Working on the following objective:
     - They would need to be a chain and agree to be a paying member (or could be a non-voting, non-paying, observer)
     - Or they are a "strong contributing" community member that the chains vote in with a supermajority
   - How is voting or ranking accomplished [(see Software Development Group 2nd item)](../SoftwareDevelopment/objectives.md)
-  - Proposal: Each chain uses their own processes and methodologies to elect its representative(s) to the the Governance Council
-  - Proposal: Cross-chain Genernance token be proposed to the Governance Council once formed and them potentially funded.  Should not be approved here.
+  - **Proposal:** Cross-chain Genernance token be proposed to the Governance Council once formed and them potentially funded.  Should not be approved here.
     - Currnet need for expediency requires manual processes or the Blue Papers are effectuively dead
     - Governance token, token conversion, and DAO software to be proposed as a funded software effort and voted upon by the Council
+  - **Proposal:** Each chain uses their own processes and methodologies to elect its representative(s) to the the Governance Council
   - How are new proposals added, discussed, and prioritzed by the group (again see the SW Dev group issues)
   - How will the Governance Council provide audit or overview audit that what was built was what was actually commisioned
   - Using a tool: Telos Decide Governance system - mobile wallet or Web (decidevoter.app)
