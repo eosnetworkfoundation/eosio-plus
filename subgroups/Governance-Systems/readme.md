@@ -8,16 +8,29 @@ Working on the following objective:
     - A BP that sits on multiple chains must only represent one chain at a time
     - Should their be a voting class for strong contributors that build tools - but not necessarily be a BP
     - Weighting by Chain? (Likely unecessary for early work as we have a huge backlog and consensus should likely guide us.)
+    - Paying vs Non-Paying Members
+    - Voters and Observers
+    - Set up an interim process until the new organization is formally formed
   - How are new members added or removed?
   - How is voting or ranking accomplished [(see Software Development Group 2nd item)](../SoftwareDevelopment/objectives.md)
   - How are new proposals added, discussed, and prioritzed by the group (again see the SW Dev group issues)
   - Other questions we should tackle as part of this?
+  - Using a tool: Telos Decide Governance system - mobile wallet or Web (decidevoter.app)
+  - Voting Use Cases
+    - New members of the committees
+    - Approval of the Blue Paper sections for funding and development
+    - Ranking of the Blue Paper sections for Mandel release
+    - Funding of work outside the Blue Papers (future)
+    - Voting on the election of the positions (EOSIO+ Executive Director, PM as example)
+    - Roadmap
 
 Current Working Group:
 - [Rami](https://github.com/ramijames)
 - [Douglas](https://github.com/douglashorn)
 - [Ted](https://github.com/tedcahalleos)
 - [Kersten](https://github.com/Kersten-TCD)
+
+# Mission: Arrive at a method to reach consensus as to what it will actually fund.
 
 From Rami
 
