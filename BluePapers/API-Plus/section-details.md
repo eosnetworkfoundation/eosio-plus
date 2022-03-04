@@ -12,4 +12,4 @@
 | 8. The Graph | Development | Made this up | A: $110k **B: $191k** C: $268k | 3 months |
 
 Link to the [in/out/option table](in-out-option.md)<br/>
-Link to the [forced rank would](section-rank.md)
+Link to the [forced rank table](section-rank.md)
