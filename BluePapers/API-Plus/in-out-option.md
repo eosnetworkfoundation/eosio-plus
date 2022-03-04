@@ -12,7 +12,7 @@ For Proposals with A/B/C after their name, used one those letters or the word "N
 | Distributed API | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | **&nbsp;** |
 | Blockchain Data Depot: A/B/C | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | **&nbsp;** |
 | Rosetta | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | **&nbsp;** |
-| The Graph: A/B/C | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | **A** |
+| The Graph: A/B/C | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | **&nbsp;** |
 
 Link to [section rank](section-rank.md)<br/>
 Link to [section details](section-details.md)
