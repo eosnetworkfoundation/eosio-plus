@@ -15,4 +15,4 @@ In / Out / Option **Example**
 | The Graph | A | B | B | A | A | A | B | **A** |
 
 Link to [section rank](section-rank.md)<br/>
-Link to [section details](section-detail.md)
+Link to [section details](section-details.md)
