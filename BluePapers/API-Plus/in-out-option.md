@@ -1,4 +1,4 @@
-# API+ Blue Paper Sample Options/In/Out Table
+# API+ Blue Paper Options/In/Out Table
 ## Under Construction
 
 In / Out / Option **Example**
