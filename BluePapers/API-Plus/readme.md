@@ -1,4 +1,4 @@
-# API Blue Paper
+# API+ Blue Paper
 
 This directory contains files pertaining to the approval, option selection, and ranking of the sections of the API+ Blue Paper.
 
