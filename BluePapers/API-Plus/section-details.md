@@ -11,7 +11,7 @@
 | 7. Rosetta | Development | Made this up | $165k | 3 months |
 | 8. The Graph | Development | Made this up | A: $110k **B: $191k** C: $268k | 3 months |
 
-Note: Authors of the Blue Paper recommend the highlighted option (always B in API+)
+Note: Authors of the Blue Paper recommend the highlighted option (always Option B in API+)
 
 Link to the [in/out/option table](in-out-option.md)<br/>
 Link to the [forced rank table](section-rank.md)
