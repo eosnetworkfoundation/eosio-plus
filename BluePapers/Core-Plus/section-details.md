@@ -2,7 +2,7 @@
 
 | **Proposal** | **Type** | **Dependencies** | **Set-up / Annual** | **Time** |
 | --- | --- | --- | --- | --- |
-| 1. Infosphere Development Proposals | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| 1. Infosphere Development Proposals | &nbsp; | 1403 Words | &nbsp; | &nbsp; |
 | 1.a. Info Coordination Group (Editors) | Staff | deplist | TBD / $100k | duration |
 | 1.b. Content Mgmt Platform | Platform | deplist | $100k / $120k | duration |
 | 1.c. End User Docs/Tutorials | Docs | deplist | $40k / $200k | duration |
@@ -14,7 +14,7 @@
 | 1.i. SysAdms Guides | Docs | deplist | $100k / $50k | duration |
 | 1.j. Video Tutorials Plan | Plan | deplist | $20k / TBD | duration |
 | 1.k. Curated Resource Catalog | Platform | deplist | TBD / $100k | duration |
-| 2. Nodeos Improvements Roadmap | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| 2. Nodeos Improvements Roadmap | &nbsp; | 1106 Words | &nbsp; | &nbsp; |
 | 2.a. New Name for EOSIO | Brand | deplist | $100k / TBD | duration |
 | 2.b. Developer Hiring Process | Process | deplist | $200k / TBD | duration |
 | 2.c. Block Vault Plugin redesign | Code | deplist | $100k / TBD | duration |
@@ -25,7 +25,7 @@
 | 2.h. Clean-up nodeos test suite | Code | deplist | $50k / TBD | duration |
 | 2.j. HTTP API endpoint trans status | Code | deplist | $50k / TBD | duration |
 | 2.i. Realtime export trans status | Code | deplist | $100k / TBD | duration |
-| 3. System Contracts Improvements Roadmap | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| 3. System Contracts Improvements Roadmap | &nbsp; | 356 Words | &nbsp; | &nbsp; |
 | 3.a. Documentation Clean up | Docs | deplist | $20k / TBD | duration |
 | 3.b. Accumulating BP Rewards | Code | deplist | $50k / TBD | duration |
 | 3.c. Contract Pays | Code | deplist | $100k / TBD | duration |
@@ -33,13 +33,13 @@
 | 3.e. Project token names in eosio.tokens | Plan | deplist | $50k / TBD | duration |
 | 3.f. Unsellable RAM | Cpde | deplist | $100k / TBD | duration |
 | 4. Roadmap/Research/Budget for Lift-off Phase | Research | &nbsp; | $50k / TBD | &nbsp; |
-| 5. Smart Contract Tooling Evolution | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| 5. Smart Contract Tooling Evolution | &nbsp; | 1703 Words | &nbsp; | &nbsp; |
 | 5.a. Testing Framework | Code | deplist | $200k / $50k | duration |
 | 5.b. Automation Framework | Code | deplist | $50k / $30k | duration |
 | 5.c. Tools Packaging for MacOS and Windows | Code | deplist | $150k / $50k | duration |
 | 5.d. Ricardian Contract Framework | Code | deplist | $200k / TBD | duration |
 | 5.e. Low/no code framework (research) | Research | deplist | $20k / TBD | duration |
-| 6. Enterprise Apps & Tooling | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| 6. Enterprise Apps & Tooling | &nbsp; | 909 Words | &nbsp; | &nbsp; |
 | 6.a. Enterprise Signing Portal | Platform | deplist | $500k / $75k | duration |
 | 6.b. Blockchain configurator | Tool | deplist | $800k / $120k | duration |
 | 6.c. Block Explorer | Tool | deplist | $100k / $15k | duration |
