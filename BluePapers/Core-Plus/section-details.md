@@ -3,7 +3,7 @@
 | **Proposal** | **Type** | **Dependencies** | **Set-up / Annual** | **Time** |
 | --- | --- | --- | --- | --- |
 | 1. Infosphere Development Proposals | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
-| 1.a. Info Coordination Group | type | deplist | TBD / $100k | duration |
+| 1.a. Info Coordination Group (Editors) | type | deplist | TBD / $100k | duration |
 | 1.b. Content Mgmt Platform | type | deplist | $100k / $120k | duration |
 | 1.c. End User Docs/Tutorials | type | deplist | $40k / $200k | duration |
 | 1.d. Video Tutorial Production | type | deplist | $20k / $120 | duration |
