@@ -10,8 +10,8 @@
 | 1.e. Articles for Managers | Docs | deplist | $50k / $50k | duration |
 | 1.f. Back-end SW Arch Guides | Docs | deplist | $500k / $50k | duration |
 | 1.g. Front-End SW Arch Guides | Docs | deplist | TBD / $200k | duration |
-| 1.h. Reference Docs | type | Docs | $100k / $50k | duration |
-| 1.i. SysAdms Guides | type | Docs | $100k / $50k | duration |
+| 1.h. Reference Docs | Docs | deplist | $100k / $50k | duration |
+| 1.i. SysAdms Guides | Docs | deplist | $100k / $50k | duration |
 | 1.j. Video Tutorials Plan | Plan | deplist | $20k / TBD | duration |
 | 1.k. Curated Resource Catalog | Platform | deplist | TBD / $100k | duration |
 | 2. Nodeos Improvements Roadmap | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
