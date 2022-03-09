@@ -2,6 +2,7 @@
 - [ ] A set of standards and organizational processes to integrate code from outside developers.
 - [ ] A description of the method to determine how various demands for new code development will be prioritized and implemented.
 - [ ] A description of the process for performing ongoing release of new code and code binaries.
+- [ ] Commenters, Issue Triage and how they are handled.  What access?
 - [x] Should we keep this time for recurring weekly meeting? Yes
 
 [Team members](readme.md)
@@ -25,6 +26,7 @@
   - Make the decisions and committe of the above type decisions public and transparent
 
 ## Process to Prioritize Demands for New Code Development
+- Handled by the Governance Committee
 - Consider the blue paper work as different than post blue paper.
   - Ted [review process](../../eosio+PathToRoadmapProposal.md) he plans for larger group on Thu?
     - Blue papers broken into SOWs (there are 7 in Audit+, 8 in API+)
@@ -72,4 +74,6 @@
    - How well do we document?
 - More frequent now due to full pipeline of features and bug fixes
   - Two feature releases per year is the current target
+
+## Commenters, Issue Triage and how they are handled.  What access?
 
