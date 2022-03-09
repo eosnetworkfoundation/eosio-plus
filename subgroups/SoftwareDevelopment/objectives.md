@@ -21,12 +21,12 @@
   - Must be agreed to by general consensus
   - Is there a consensus mechanism above them if they (commiters) are blocking items?
 - How to handle a 3rd party feature that was not on the roadmap but seems beneficial?
-  - Have a committee (not necessarily the commiters) that took these as input, and then ammended the roadmap.
+  - Bumped up to the Governance Council for approval or prioritization and then ammended the roadmap.
   - Need a clear published policy on GitHub as to how to submit new code, features or proposals (Pomelo / Grant Framework)
   - Make the decisions and committe of the above type decisions public and transparent
 
 ## Process to Prioritize Demands for New Code Development
-- Handled by the Governance Committee
+- Handled by the Governance Council
 - Consider the blue paper work as different than post blue paper.
   - Ted [review process](../../eosio+PathToRoadmapProposal.md) he plans for larger group on Thu?
     - Blue papers broken into SOWs (there are 7 in Audit+, 8 in API+)
