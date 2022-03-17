@@ -8,9 +8,9 @@
 [Team members](readme.md)
 
 ## Standards and Organizational Processes to Integrate Code from Outside Developers
-- Should we consider the Apache Software Foundation (ASF) Model of [Contributors and Committers](https://community.apache.org/contributors/)?
+- We will follow the Apache Software Foundation (ASF) Model of [Contributors and Committers](https://community.apache.org/contributors/)?
   - This requires a committee of "commiters" (gatekeepers) that peridoically approves or rejects new contributor submissions
-- This team to write the clear Policy and Process for all developers submitting code
+- Team to write the clear Policy and Process for all developers submitting code including:
   - Does the code do what the commit says?
   - Does the commit do what was on the roadmap?
   - Is it a bug fix to a known issue?
