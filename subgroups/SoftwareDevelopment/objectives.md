@@ -1,7 +1,7 @@
 # EOSIO+ Software Development Subgroup Objectives
-- [ ] A set of standards and organizational processes to integrate code from outside developers.
-- [ ] A description of the method to determine how various demands for new code development will be prioritized and implemented.
-- [ ] A description of the process for performing ongoing release of new code and code binaries.
+- [x] A set of standards and organizational processes to integrate code from outside developers.
+- [x] A description of the method to determine how various demands for new code development will be prioritized and implemented.
+- [x] A description of the process for performing ongoing release of new code and code binaries.
 - [ ] Commenters, Issue Triage and how they are handled.  What access?
 - [ ] Definition of "Core Code"
 - [x] Should we keep this time for recurring weekly meeting? Yes
