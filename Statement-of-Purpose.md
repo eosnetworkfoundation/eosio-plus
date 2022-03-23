@@ -16,7 +16,7 @@ Contract the development of world-class corporate identity and branding elements
 
 Ensures the ongoing maintenance of the eosio protocol codebase ensuring secure code for all users with the ability to quickly assess, patch and disseminate any new security patches for eosio code in a manner that supports the security of all users of eosio open-source protocol software regardless of their membership within this group.
 
-The definition of core code is outlined within the results of a workgroup lead by Aaron Cox (Draft to be added as Appendix A after approval)
+The definition of core code is outlined within Appendix A.
 
 ## 3.Public Code Maintenance and Distribution
 
@@ -67,3 +67,17 @@ Determine the mode of staffing the organization. The entity will be created in a
 ## 11.Promote eosio codebase and &quot;product&quot;
 
 Communicate with outside stakeholders, communities, and prospective stakeholders at all levels to provide regular updates about development achievements, future plans, emergent security issues, and ongoing brand awareness of the organization. Develop overarching marketing strategies to support all chains and increase brand recognition and general adoption of eosio.
+
+# Appendix A
+
+The term "Core Development" is defined as "any development towards software which provides the base functionality required for network operations and usage". This required functionality is implemented across the server application (e.g. nodeos), system contracts (e.g. eosio contract), native APIs (e.g. v1/chain), and client software development kits (e.g. JavaScript, Golang). 
+
+Listed below are examples of terminology including the concept of "Core Development":
+
+- "Core Development": Any development towards with the Core Software.
+- "Core Software": The software that provides the base functionality which is required for Operations and Usage.
+- "Core Codebase": A term to include all Core Services, Core Contracts, Core APIs, and Core SDKs.
+- "Core Services": The Core Software which operators run to maintain consensus for the state of the blockchain.
+- "Core Contracts": The Core Software that provides the base layer logic for the operations of the blockchain.
+- "Core APIs": The Core Software that allows connectivity between the Core Services and Core Contracts to the Core SDKs.
+- "Core SDKs": The Core Software that allows external software to utilize the core APIs.
