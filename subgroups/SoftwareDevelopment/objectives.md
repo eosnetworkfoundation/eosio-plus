@@ -3,6 +3,7 @@
 - [ ] A description of the method to determine how various demands for new code development will be prioritized and implemented.
 - [ ] A description of the process for performing ongoing release of new code and code binaries.
 - [ ] Commenters, Issue Triage and how they are handled.  What access?
+- [ ] Definition of "Core Code"
 - [x] Should we keep this time for recurring weekly meeting? Yes
 
 [Team members](readme.md)
@@ -76,4 +77,6 @@
   - Two feature releases per year is the current target
 
 ## Commenters, Issue Triage and how they are handled.  What access?
+
+## Definition of Core Code
 
